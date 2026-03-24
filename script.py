@@ -1,1 +1,1 @@
-print("Hello World master)
+print("Hello World both!")
