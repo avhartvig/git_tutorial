@@ -1,5 +1,3 @@
 Figured I would add some text to this file
 
 I am adding stuff to see the change
-
-BUG FIX
